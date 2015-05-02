@@ -27,7 +27,7 @@ technologies and work on small projects. Among technologies that call
 my attention right now are Software Development, Android
 Applications, Arduino Projects, 3D Printing and more.
 
-## Mathew Blanco
+## [Matthew Blanco](../images/Matthew_Blanco_Resume.pdf)
 
 <p><img src="../images/MatthewBlanco.jpg" width="450px" alt="img" title="MathewBlanco.jpg"></p>
 
@@ -59,7 +59,8 @@ own one before.  The time spent in these communities and with those on
 these trips has given me the empathic foundation with which I live my
 life everyday.  Along with my volunteer service I spent time
 collecting and fundraising for the Atlanta Community Food Bank to
-support the less fortunate in the community.
+support the less fortunate in the community. My personal website is
+[Matthew Blanco](http://Matthew-Blanco.ddns.net).
 
 ## Kenneth Goodman
 
