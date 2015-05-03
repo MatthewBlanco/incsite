@@ -104,7 +104,7 @@ tracking template that resulted in enhanced credit management for
 Fortune 500 clients. I look forward to contributing to projects at the
 Queens College incubator, particularly the Starter Jobs project.
 
-## Aryan Jabbari
+## Aryan Jabbari <a href="https://github.com/AryanJ-NYC"><img src="../theme/images/icons/github.png" alt="github logo"></a><a href="http://www.linkedin.com/in/AryanJabbari"><img src="../theme/images/icons/linkedin.png" alt="linkedin logo"></a>
 
 I am a graduate student at CUNY Queens College and an IT aide at
 Queens College's Academic Advising Center.  In addition to learning at
@@ -113,6 +113,7 @@ computer science courses online.  I am interested in using technology
 to help others, especially those in Queens county.  My principal
 focuses at the Queens College technology incubator is on the Starter
 Jobs and Flushing Chamber of Commerce projects.
+
 
 ## Alexander Malahoff
 
