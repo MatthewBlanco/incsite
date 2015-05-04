@@ -11,8 +11,8 @@ summary: Interns
 # The Queens College Incubator Interns
 
 ## Carlos Del Rosario
-<div class="text">
-<p><img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style="float:right; margin-left:10px; padding-right:1px;"></p>
+<div class="divInt">
+<div class="circleBoxRight"><img src="../images/CarlosDelRosario.jpg" alt="img" title="Carlos Del Rosario" style=""></div>
 
 Born and raised in the Dominican Republic, I moved to the United
 States in September of 2010. I am currently a Senior at Queens
@@ -31,8 +31,8 @@ Applications, Arduino Projects, 3D Printing and more.
 </div>
 
 ## [Matthew Blanco](../images/Matthew_Blanco_Resume.pdf)
-<div class="text">
-<p><img src="../images/MatthewBlanco.jpg" alt="img" title="MathewBlanco.jpg" style="margin-right:10px; padding-left:1px;"></p>
+<div class="divInt">
+<div class="circleBoxLeft"><img src="../images/MatthewBlanco.jpg"/></div>
 
 I am currently a senior at Queens College pursuing my Bachelor’s in
 Computer Science.  I am lucky to have had family and friends who have
@@ -67,8 +67,8 @@ support the less fortunate in the community. My personal website is
 </div>
 
 ## Kenneth Goodman
-<div class="text">
-<p><img src="../images/KennethGoodman.jpg" alt="img" title="KennethGoodman.jpg" style="float:right; width:350px; height:250px; margin-left:10px; padding-right:1px;"></p>
+<div class="divInt">
+<div class="circleBoxRight"><img src="../images/KennethGoodman.jpg" alt="img" title="KennethGoodman.jpg"></div>
 
 I am an Applied Mathematics Student with a concentration in Computer
 Science at Queens College. On my free time I study data analytics,
@@ -79,8 +79,8 @@ various backgrounds succeed in fields that are so important.
 </div>
 
 ## Kevin Ramsunder
-<div class="text">
-<p><img src="../images/KevinRamsunder.jpg" alt="img" title="KevinRamsunder.jpg" style="margin-right:10px; padding-left:1px;"></p>
+<div class="divInt">
+<div class="circleBoxLeft"><img src="../images/KevinRamsunder.jpg" alt="img" title="KevinRamsunder.jpg"></div>
 
 My name is Kevin Ramsunder, and I am a third year undergraduate
 student at Queens College. I started programming as a hobby in high
@@ -97,8 +97,8 @@ available here. My website is KevinRamsunder.com.
 </div>
 
 ## Miriam Striks
-<div class="text">
-<p><img src="../images/MiriamStriks.jpg" alt="img" title="MiriamStriks.jpg" style="float:right; margin-left:10px; padding-right:1px;"></p>
+<div class="divInt">
+<div class="circleBoxRight"><img src="../images/MiriamStriks.jpg" alt="img" title="MiriamStriks.jpg"></div>
 
 I am a senior majoring in computer science at Queens College, where I
 also work with Professor Christopher Hanusa doing research in
@@ -112,7 +112,8 @@ Queens College incubator, particularly the Starter Jobs project.
 </div>
 
 ## Aryan Jabbari
-<a href="https://github.com/AryanJ-NYC"><img src="../theme/images/icons/github.png" alt="github logo"></a><a href="http://www.linkedin.com/in/AryanJabbari"><img src="../theme/images/icons/linkedin.png" alt="linkedin logo"></a>
+<div class="divInt">
+<div class="circleBoxLeft"><a href="http://www.linkedin.com/in/AryanJabbari"><img src="../theme/images/icons/linkedin.png" alt="linkedin logo"></a></div>
 
 I am a graduate student at CUNY Queens College and an IT aide at
 Queens College's Academic Advising Center.  In addition to learning at
@@ -121,11 +122,11 @@ computer science courses online.  I am interested in using technology
 to help others, especially those in Queens county.  My principal
 focuses at the Queens College technology incubator is on the Starter
 Jobs and Flushing Chamber of Commerce projects.
-
+</div>
 
 ## Alexander Malahoff
-<div class="text">
-<p><img src="../images/AlexanderMalahoff.jpg" alt="img" title="AlexanderMalahoff.jpg" style="float:right; margin-left:10px; padding-right:1px;"></p>
+<div class="divInt">
+<div class="circleBoxRight"><img src="../images/AlexanderMalahoff.jpg" alt="img" title="AlexanderMalahoff.jpg"></div>
 
 I am a junior in Queens College majoring in computer science. I am
 a graduate of Cornell Law School and I am an admitted attorney in the
