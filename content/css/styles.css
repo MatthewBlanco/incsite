@@ -1,9 +1,14 @@
 
-#text{
+.text{
+    text-align:justify;
     position:relative;
     height:auto;
     overflow:hidden;
-    text-align:justify;
+    display:inline-block;
+}
+
+.circularImg{
+    border-radius:150px;
 }
 
 body{
