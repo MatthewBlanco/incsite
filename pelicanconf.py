@@ -14,7 +14,7 @@ MENUITEMS = [('Mission','/pages/mission.html'),
              ('Companies','/pages/companies.html'),
              ('Projects','/pages/projects.html'),
              ('Research','/pages/research.html'),
-             ('Interns','/pages/interns.html'),
+             ('Fellows','/pages/fellows.html'),
              ('Staff','/pages/staff.html'),
 ]
 

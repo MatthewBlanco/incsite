@@ -32,7 +32,7 @@ def rebuild():
     build()
 
 def regenerate():
-    local('pelican -r -s pelicanconf.py')
+    local('pelican -r -s pelicanconf.py --ignore-cache')
 
 def serve():
     os.chdir(env.deploy_path)

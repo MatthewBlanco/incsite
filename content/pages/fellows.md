@@ -1,14 +1,14 @@
-title: Interns
+title: Fellows
 modified: 2014-03-10
-tags: interns, incubator
-slug: interns
-label: Interns
+tags: fellows, incubator
+slug: fellows
+label: Fellows
 authors: Evan Misshula
-summary: Interns
+summary: Fellows
 
 <link href="../css/styles.css" rel="stylesheet"></link>
 
-# The Queens College Incubator Interns
+# The Queens College Incubator Fellows
 
 ## Carlos Del Rosario
 <div class="divInt">
@@ -112,13 +112,12 @@ Queens College incubator, particularly the Starter Jobs project.
 </div>
 
 
-## Aryan Jabbari
+## Aryan Jabbari 
 <div class="divInt">
 <div class="circleBoxLeft">
-[<img src="../theme/images/icons/github.png" alt="github logo">](https://github.com/AryanJ-NYC)
-<a href="http://www.linkedin.com/in/AryanJabbari"><img src="../theme/images/icons/linkedin.png" alt="linkedin logo"></a>
 </div>
 </div>
+
 
 
 I am a graduate student at CUNY Queens College and an IT aide at
